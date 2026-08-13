@@ -1,0 +1,15 @@
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\bin\Debug\net10.0\Bank Sistemi.exe
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\bin\Debug\net10.0\Bank Sistemi.deps.json
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\bin\Debug\net10.0\Bank Sistemi.runtimeconfig.json
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\bin\Debug\net10.0\Bank Sistemi.dll
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\bin\Debug\net10.0\Bank Sistemi.pdb
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.sourcelink.json
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.dll
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\refint\Bank Sistemi.dll
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.pdb
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\Bank Sistemi.genruntimeconfig.cache
+C:\Users\Nurlan\source\repos\Inheritance\Bank Sistemi\obj\Debug\net10.0\ref\Bank Sistemi.dll

@@ -1,0 +1,15 @@
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\bin\Debug\net10.0\Qəhvə Maşını Sistemi.exe
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\bin\Debug\net10.0\Qəhvə Maşını Sistemi.deps.json
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\bin\Debug\net10.0\Qəhvə Maşını Sistemi.runtimeconfig.json
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\bin\Debug\net10.0\Qəhvə Maşını Sistemi.dll
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\bin\Debug\net10.0\Qəhvə Maşını Sistemi.pdb
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.sourcelink.json
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.dll
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\refint\Qəhvə Maşını Sistemi.dll
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.pdb
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\Qəhvə Maşını Sistemi.genruntimeconfig.cache
+C:\Users\Nurlan\source\repos\Inheritance\Qəhvə Maşını Sistemi\obj\Debug\net10.0\ref\Qəhvə Maşını Sistemi.dll

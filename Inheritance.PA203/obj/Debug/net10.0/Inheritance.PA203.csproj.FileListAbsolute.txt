@@ -1,0 +1,15 @@
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\bin\Debug\net10.0\Inheritance.PA203.exe
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\bin\Debug\net10.0\Inheritance.PA203.deps.json
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\bin\Debug\net10.0\Inheritance.PA203.runtimeconfig.json
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\bin\Debug\net10.0\Inheritance.PA203.dll
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\bin\Debug\net10.0\Inheritance.PA203.pdb
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.sourcelink.json
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.dll
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\refint\Inheritance.PA203.dll
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.pdb
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\Inheritance.PA203.genruntimeconfig.cache
+C:\Users\Nurlan\source\repos\Inheritance\Inheritance.PA203\obj\Debug\net10.0\ref\Inheritance.PA203.dll

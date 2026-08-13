@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Inheritance.TimeSpan/Inheritance.TimeSpan.csproj" />
+  <Project Path="Bank Sistemi/Bank Sistemi.csproj" />
+  <Project Path="Inheritance.PA203/Inheritance.PA203.csproj" />
+  <Project Path="Qəhvə Maşını Sistemi/Qəhvə Maşını Sistemi.csproj" />
 </Solution>

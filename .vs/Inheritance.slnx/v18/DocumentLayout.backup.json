@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F99AF836-BFA5-4E0B-BC13-EA69493CCDEA}|Inheritance.TimeSpan\\Inheritance.TimeSpan.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\inheritance.timespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F99AF836-BFA5-4E0B-BC13-EA69493CCDEA}|Inheritance.TimeSpan\\Inheritance.TimeSpan.csproj|solutionrelative:inheritance.timespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\bank sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|solutionrelative:bank sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F99AF836-BFA5-4E0B-BC13-EA69493CCDEA}|Inheritance.TimeSpan\\Inheritance.TimeSpan.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\inheritance.timespan\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F99AF836-BFA5-4E0B-BC13-EA69493CCDEA}|Inheritance.TimeSpan\\Inheritance.TimeSpan.csproj|solutionrelative:inheritance.timespan\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\bank sistemi\\corporateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|solutionrelative:bank sistemi\\corporateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F99AF836-BFA5-4E0B-BC13-EA69493CCDEA}|Inheritance.TimeSpan\\Inheritance.TimeSpan.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\inheritance.timespan\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F99AF836-BFA5-4E0B-BC13-EA69493CCDEA}|Inheritance.TimeSpan\\Inheritance.TimeSpan.csproj|solutionrelative:inheritance.timespan\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\bank sistemi\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|solutionrelative:bank sistemi\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\bank sistemi\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|solutionrelative:bank sistemi\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|c:\\users\\nurlan\\source\\repos\\inheritance\\bank sistemi\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40DA81-A3B8-C2B4-D2A0-F6175244ECAD}|Bank Sistemi\\Bank Sistemi.csproj|solutionrelative:bank sistemi\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Inheritance.TimeSpan\\Book.cs",
-              "RelativeDocumentMoniker": "Inheritance.TimeSpan\\Book.cs",
-              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Inheritance.TimeSpan\\Book.cs",
-              "RelativeToolTip": "Inheritance.TimeSpan\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CorporateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\CorporateAccount.cs",
+              "RelativeDocumentMoniker": "Bank Sistemi\\CorporateAccount.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\CorporateAccount.cs*",
+              "RelativeToolTip": "Bank Sistemi\\CorporateAccount.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:28:24.341Z",
+              "WhenOpened": "2026-08-13T22:14:59.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Inheritance.TimeSpan\\Product.cs",
-              "RelativeDocumentMoniker": "Inheritance.TimeSpan\\Product.cs",
-              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Inheritance.TimeSpan\\Product.cs",
-              "RelativeToolTip": "Inheritance.TimeSpan\\Product.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Bank Sistemi\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\SavingsAccount.cs*",
+              "RelativeToolTip": "Bank Sistemi\\SavingsAccount.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:21:41.85Z",
+              "WhenOpened": "2026-08-13T21:59:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\CreditAccount.cs",
+              "RelativeDocumentMoniker": "Bank Sistemi\\CreditAccount.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\CreditAccount.cs*",
+              "RelativeToolTip": "Bank Sistemi\\CreditAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T21:33:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank Sistemi\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\BankAccount.cs*",
+              "RelativeToolTip": "Bank Sistemi\\BankAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T13:34:11.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Inheritance.TimeSpan\\Program.cs",
-              "RelativeDocumentMoniker": "Inheritance.TimeSpan\\Program.cs",
-              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Inheritance.TimeSpan\\Program.cs*",
-              "RelativeToolTip": "Inheritance.TimeSpan\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Bank Sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\Inheritance\\Bank Sistemi\\Program.cs*",
+              "RelativeToolTip": "Bank Sistemi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T20:21:14.429Z",
+              "WhenOpened": "2026-08-13T13:33:32.646Z",
               "EditorCaption": ""
             }
           ]

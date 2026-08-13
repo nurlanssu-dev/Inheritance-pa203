@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Qəhvə Maşını Sistemi/1.0.0": {
+        "runtime": {
+          "Qəhvə Maşını Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qəhvə Maşını Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
